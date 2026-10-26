@@ -57,5 +57,5 @@ if (!isset($_SESSION['status_login'])){
     </table>
 </body>
 </html>
-
-// di buat lutfi
+<!-- Create by: lutfi ansori -->
+<!-- Credit to: Kevin Permana, S.Kom -->

@@ -26,7 +26,7 @@ if(isset($_POST['register'])) {
 </head>
 <body>
     <h2>Registrasi Perpustakaan</h2>
-    <form action="" method="get">
+    <form action="" method="post">
         <label for="">Nama lengkap:</label><br>
         <input type="text" name="nama_lengkap" id="" required><br><br>
         <label for="">Username:</label><br>

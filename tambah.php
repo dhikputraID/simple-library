@@ -48,4 +48,5 @@ if (isset($_POST['simpan'])){
 </body>
 </html>
 
-// di buat lutfi
+<!-- Create by: lutfi ansori -->
+<!-- Credit to: Kevin Permana, S.Kom -->
