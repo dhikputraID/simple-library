@@ -1,0 +1,14 @@
+<?php
+
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db = "db_perpus_smkm3";
+
+$koneksi = mysqli_connect($host, $user, $pass, $db);
+
+if(!$koneksi) {
+  die("Koneksi gagal terhubung" . mysqli_connect_error());
+}
+
+?>
