@@ -38,3 +38,6 @@ if(isset($_POST['login'])) {
     <p>Belum punya akun? <a href="register.php">Daftar di sini</a></p>
 </body>
 </html>
+
+<!-- Create by: dhika puta -->
+<!-- Credit to: Kevin Permana, S.Kom -->

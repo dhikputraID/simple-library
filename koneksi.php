@@ -11,4 +11,6 @@ if(!$koneksi) {
   die("Koneksi gagal terhubung" . mysqli_connect_error());
 }
 
+// Create by: dhika puta
+// Credit to: Kevin Permana, S.Kom -->
 ?>
